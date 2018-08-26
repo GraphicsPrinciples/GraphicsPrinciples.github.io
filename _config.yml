@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate #jekyll-theme-cayman
+
 
 title: [Graphics principles cheatsheet]
 description: [The landing page for the graphics principles cheatsheet github repository.]
