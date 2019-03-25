@@ -16,7 +16,7 @@ Work packages include:
 
 For more information on the initiative please check out our publication: [https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) 
 
-We also have prepared a tutorial on "Effective visual communication for the quantitative scientist" which is in submission. A pre-print can be found at [https://arxiv.org/abs/1903.09512] (https://arxiv.org/abs/1903.09512)
+We also have prepared a tutorial on "Effective visual communication for the quantitative scientist" which is in submission. A pre-print can be found at [https://arxiv.org/abs/1903.09512] (https://arxiv.org/abs/1903.09512) . Example code for the case studies will be available online soon. 
 
 
 
