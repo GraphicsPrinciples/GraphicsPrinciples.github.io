@@ -18,7 +18,7 @@ For more information on the initiative please check out our publication: [https:
 
 A tutorial on "Effective visual communication for the quantitative scientist" is in submission. A pre-print can be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512) 
 
-Example code for the case studies will be available online soon. 
+Example code for the case studies is available [here](https://github.com/GraphicsPrinciples/Tutorial-viz-com). 
 
 
 
