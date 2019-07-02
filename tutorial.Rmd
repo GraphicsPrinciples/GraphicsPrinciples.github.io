@@ -1,0 +1,12 @@
+---
+title: "Effective visual communication"
+site: radix::radix_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+We also have prepared a tutorial on "Effective visual communication for the quantitative scientist" which is in submission. A pre-print can be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512) 
+
+Example code for the case studies is available [here](https://github.com/GraphicsPrinciples/tutorial-viz-com). 

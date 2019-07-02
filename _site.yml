@@ -1,7 +1,7 @@
-name: "Graphics principlesl"
+name: "Graphics principles"
 title: "Graphics principles"
 description: |
-  A tutorial on effective visual communication for the quantitative scientist.
+  Graphics principles cheatsheet homepage
 output_dir: "."
 base_url: https://stratos-vp.github.io
 canonical_url: https://stratos-vp.github.io
@@ -9,10 +9,10 @@ navbar:
   right:
     - text: "Home"
       href: https://graphicsprinciples.github.io/
-    - text: "Case studies"
-      href: https://graphicsprinciples.github.io/tutorial-case-studies
-    - text: "Graphical principles"
-      href: https://graphicsprinciples.github.io/
+    - text: "Initiative"
+      href: initiative.html
+    - text: "Tutorial"
+      href: tutorial.html
     - icon: fab fa-github
       href: https://github.com/GraphicsPrinciples
 output: radix::radix_article
