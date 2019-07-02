@@ -8,11 +8,13 @@ canonical_url: https://stratos-vp.github.io
 navbar:
   right:
     - text: "Home"
-      href: https://graphicsprinciples.github.io/
+      href: index.html
     - text: "Initiative"
       href: initiative.html
     - text: "Tutorial"
       href: tutorial.html
+    - text: "Notebooks"
+      href: https://graphicsprinciples.github.io/tutorial-case-studies
     - icon: fab fa-github
       href: https://github.com/GraphicsPrinciples
 output: radix::radix_article

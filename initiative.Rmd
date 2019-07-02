@@ -1,12 +1,18 @@
 ---
 title: "How can we make better graphs?"
 description: |
-  An initiative to increase the graphical expertise and productivity of quantitative scientists
+  An initiative to increase the graphical expertise and productivity of quantitative scientists. 
 site: radix::radix_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+```
+
+Graphics are at the core of exploring and understanding data, communicating results and conclusions, and supporting decision‐making. Increasing our graphical expertise can significantly strengthen our impact as professional statisticians and quantitative scientists.
+
+```{r, fig.cap="Screenshot from the question‐based visualization pilot (data anonymized)"}
+knitr::include_graphics("assets/QBV.png")
 ```
 
 The [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is one deliverable of a [graphics initiative](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) to increase the graphical expertise and productivity of quantitative scientists at [Novartis](https://www.novartis.com/our-science). 
@@ -26,3 +32,5 @@ The initative work packages include:
 - **Question-based visualizations** - a work package to encourage a more "top down" approach to creating graphs which starts with the question of interest, followed by the selection of data and graph to best answer the question (instead of the other way around)
 
 For more information on the initiative please check out our publication: [https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) 
+
+In this article, we present a concerted effort to improve the way we create graphics at Novartis. We provide our vision and guiding principles, before describing seven work packages in more detail. The actions, principles, and experiences laid out in this paper are applicable generally, also beyond drug development, which is our field of work. 
