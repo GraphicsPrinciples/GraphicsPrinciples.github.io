@@ -1,0 +1,22 @@
+name: "Graphics principles"
+title: "Graphics principles"
+description: |
+  Graphics principles cheatsheet homepage
+output_dir: "."
+base_url: https://graphicsprinciples.github.io
+canonical_url: https://graphicsprinciples.github.io
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Tutorial"
+      href: tutorial.html
+    - text: "Case studies"
+      href: https://graphicsprinciples.github.io/tutorial-case-studies
+    - text: "About"
+      href: initiative.html
+    - icon: fab fa-github
+      href: https://github.com/GraphicsPrinciples
+output: radix::radix_article
+
+

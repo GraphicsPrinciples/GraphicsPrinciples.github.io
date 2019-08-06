@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>STRATOS visualisation panel</title>
+    <link>https://stratos-vp.github.io</link>
+    <atom:link href="https://stratos-vp.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <description>A tutorial on effective visual communication for the quantitative scientist.
+</description>
+    <generator>Radix</generator>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Three laws of visual communication</title>
+      <dc:creator>Marc Vandemeulebroecke</dc:creator>
+      <dc:creator>Mark Baillie</dc:creator>
+      <dc:creator>Alison Margolskee</dc:creator>
+      <dc:creator>Baldur Magnusson</dc:creator>
+      <link>https://stratos-vp.github.io/posts/201-three-laws-vizcom</link>
+      <description>The Three laws of visual communication for the quantitative scientist</description>
+      <guid>https://stratos-vp.github.io/posts/201-three-laws-vizcom</guid>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://stratos-vp.github.io/posts/201-three-laws-vizcom/Figure1b.png" medium="image" type="image/png" width="1035" height="418"/>
+    </item>
+    <item>
+      <title>Exploratory exposure-response analysis</title>
+      <dc:creator>Marc Vandemeulebroecke</dc:creator>
+      <dc:creator>Mark Baillie</dc:creator>
+      <dc:creator>Alison Margolskee</dc:creator>
+      <dc:creator>Baldur Magnusson</dc:creator>
+      <link>https://stratos-vp.github.io/posts/401-case1-eda</link>
+      <description>The importance of understanding the scientific context.</description>
+      <guid>https://stratos-vp.github.io/posts/401-case1-eda</guid>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://stratos-vp.github.io/posts/401-case1-eda/401-case1-eda_files/figure-html5/unnamed-chunk-2-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Post-hoc subgroup analyses</title>
+      <dc:creator>Marc Vandemeulebroecke</dc:creator>
+      <dc:creator>Mark Baillie</dc:creator>
+      <dc:creator>Alison Margolskee</dc:creator>
+      <dc:creator>Baldur Magnusson</dc:creator>
+      <link>https://stratos-vp.github.io/posts/404-case4-subgroup</link>
+      <description>The importance of clarifying the purpose.</description>
+      <guid>https://stratos-vp.github.io/posts/404-case4-subgroup</guid>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://stratos-vp.github.io/posts/404-case4-subgroup/404-case4-subgroup_files/figure-html5/unnamed-chunk-7-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Graphics Principles Cheat Sheet</title>
+      <dc:creator>Marc Vandemeulebroecke</dc:creator>
+      <dc:creator>Mark Baillie</dc:creator>
+      <dc:creator>Alison Margolskee</dc:creator>
+      <dc:creator>Baldur Magnusson</dc:creator>
+      <link>https://stratos-vp.github.io/posts/301-cheatsheet</link>
+      <description>A concise and accessible resource for everyday practical use.</description>
+      <guid>https://stratos-vp.github.io/posts/301-cheatsheet</guid>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effective visual communication</title>
+      <dc:creator>Marc Vandemeulebroecke</dc:creator>
+      <dc:creator>Mark Baillie</dc:creator>
+      <dc:creator>Alison Margolskee</dc:creator>
+      <dc:creator>Baldur Magnusson</dc:creator>
+      <link>https://stratos-vp.github.io/posts/101-intro-vizcom</link>
+      <description>A tutorial on effective visual communication for the quantitative scientist.</description>
+      <guid>https://stratos-vp.github.io/posts/101-intro-vizcom</guid>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://raw.githubusercontent.com/GraphicsPrinciples/GraphicsPrinciples.github.io/master/assets/2018-11-06_thumbnail.png" medium="image" type="image/png"/>
+    </item>
+  </channel>
+</rss>
