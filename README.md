@@ -1,3 +1,3 @@
 # Graphics principles cheatsheet
 
-This the landing page for the cheatsheet. You can access the cheatsheet on GitHub. The R code is also available for many of the examples. 
+This is the home page for the [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). The [cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is available on GitHub along with [R code](https://github.com/GraphicsPrinciples/CheatSheet) for many of the examples. The link to the cheatsheet github repository can be found [here](https://github.com/GraphicsPrinciples/CheatSheet). 
