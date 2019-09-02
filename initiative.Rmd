@@ -36,4 +36,4 @@ For more information on the initiative please check out our publication: [https:
 In this article, we present a concerted effort to improve the way we create graphics at Novartis. We provide our vision and guiding principles, before describing seven work packages in more detail. The actions, principles, and experiences laid out in this paper are applicable generally, also beyond drug development, which is our field of work. 
 
 
-In addition to the initative We have also prepared a tutorial on "Effective visual communication for the quantitative scientist". A pre-print can be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512) 
+In addition to the initative We have also prepared a tutorial on "Effective visual communication for the quantitative scientist". The open access tutorial can be found [at CPT:PSP here](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12455). 
