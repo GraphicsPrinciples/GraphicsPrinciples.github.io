@@ -8,4 +8,4 @@ For more information on the [initiative](initiative.html) please check out our p
 
 We also have prepared a [tutorial](tutorial.html) on "Effective visual communication for the quantitative scientist" which is in submission and can be found [at CPT:PSP here](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12455). Example code for the [case studies](https://graphicsprinciples.github.io/tutorial-case-studies) is available [here](https://github.com/GraphicsPrinciples/tutorial-viz-com). 
 
-A pre-print can be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512). 
+A pre-print of the tutorial can also be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512). 

@@ -19,9 +19,7 @@ The [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/Cheat
 
 For more information on the [initiative](initiative.html) please check out our publication: [https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) 
 
-We also have prepared a [tutorial](tutorial.html) on "Effective visual communication for the quantitative scientist" which is in submission and can be found [at CPT:PSP here](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12455). Example code for the [case studies](https://graphicsprinciples.github.io/tutorial-case-studies) is available [here](https://github.com/GraphicsPrinciples/tutorial-viz-com). 
-
-A pre-print can be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512). 
+We also have published a [tutorial](tutorial.html) on "Effective visual communication for the quantitative scientist", which can be found [at CPT:PSP here](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12455). Example code for the [case studies](https://graphicsprinciples.github.io/tutorial-case-studies) are also available [here](https://github.com/GraphicsPrinciples/tutorial-viz-com). 
 
 
 

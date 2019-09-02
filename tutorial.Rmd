@@ -20,4 +20,4 @@ These laws and recommendations are illustrated in a collection of [case study no
 knitr::include_graphics("assets/Case-study.png")
 ```
 
-A pre-print can be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512) 
+An earlier pre-print of the tutorial can also be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512) 
