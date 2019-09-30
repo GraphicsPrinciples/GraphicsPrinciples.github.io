@@ -13,7 +13,7 @@ navbar:
       href: tutorial.html
     - text: "Case studies"
       href: https://graphicsprinciples.github.io/tutorial-case-studies
-    - test: "Gallery"
+    - text: "Gallery"
       href: https://graphicsprinciples.github.io/gallery/
     - text: "About"
       href: initiative.html
