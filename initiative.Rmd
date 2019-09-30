@@ -25,7 +25,7 @@ The initative work packages include:
 
 - **The Graphics Newsletter** - an email communication covering anything and everything relevant to graphics, distributed every two months to approximately 1100 recipients within Novartis, including statisticians, pharmacometricians, medical writers, and various other functions.
 
-- **Analysis Results Datasets (ARD)** - a data standard designed as an extension to the CDISC Analysis Data Model (ADaM) to store results from related inferencial analyses and aggregated statistics for easy production of outputs
+- **Analysis Results Datasets (ARD)** - a data standard designed as an extension to the CDISC Analysis Data Model (ADaM) to store results from related inferential analyses and aggregated statistics for easy production of outputs
 
 - **Standardization of common graphs** - a handful of carefully curated graphs selected to represent preapproved standard graphs for inclusion in regulated documents, and included in the Output Governance system (a repository of preapproved standard tables and listings which previously had not included figures)
 
