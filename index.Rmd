@@ -1,7 +1,7 @@
 ---
 title: "Graphics Principles"
 description: |
-  This is the home page for the [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). The [cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is available on GitHub along with [R code](https://github.com/GraphicsPrinciples/CheatSheet) for many of the examples. The link to the cheatsheet github repository can be found [here](https://github.com/GraphicsPrinciples/CheatSheet). 
+  This is the home page for the [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). The cheatsheet is available on GitHub along with R code for many of the examples. The link to the cheatsheet github repository can be found [here](https://github.com/GraphicsPrinciples/CheatSheet). 
 site: radix::radix_website
 ---
 
@@ -15,7 +15,7 @@ knitr::include_graphics("assets/2018-11-06_thumbnail.png")
 ```
 
 
-The [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is one deliverable of an [initiative](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) to increase the expertise and productivity of quantitative scientists at [Novartis](https://www.novartis.com/our-science). 
+The [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is one deliverable of an initiative to increase the expertise and productivity of quantitative scientists at [Novartis](https://www.novartis.com/our-science). 
 
 For more information on the [initiative](initiative.html) please check out our publication: [https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) 
 
