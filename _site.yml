@@ -9,6 +9,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Three laws"
+      href: threelaws.html
     - text: "Tutorial"
       href: tutorial.html
     - text: "Case studies"

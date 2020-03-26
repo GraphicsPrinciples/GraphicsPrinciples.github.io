@@ -1,0 +1,14 @@
+---
+title: "Three laws"
+description: |
+  This short video introduces three laws of Effective Visual Communication: have a clear **purpose**, show the data **clearly**, and make the **message** obvious
+site: radix::radix_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pfxulpF9XOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The three laws of Effective Visual Communication correspond to the three main ingredients of any quantitative work: purpose, data, and message. Getting these right leads to success; failing in any of them leads to overall failure. 
