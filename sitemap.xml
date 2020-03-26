@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
+    <loc>https://graphicsprinciples.github.io/cheatsheet.html</loc>
+    <lastmod>2020-03-26T23:11:35+01:00</lastmod>
+  </url>
+  <url>
     <loc>https://graphicsprinciples.github.io/</loc>
     <lastmod>2020-03-26T21:28:50+01:00</lastmod>
   </url>
@@ -14,10 +18,10 @@
   </url>
   <url>
     <loc>https://graphicsprinciples.github.io/threelaws.html</loc>
-    <lastmod>2020-03-26T22:16:14+01:00</lastmod>
+    <lastmod>2020-03-26T22:29:03+01:00</lastmod>
   </url>
   <url>
     <loc>https://graphicsprinciples.github.io/tutorial.html</loc>
-    <lastmod>2020-03-26T22:11:33+01:00</lastmod>
+    <lastmod>2020-03-26T23:27:50+01:00</lastmod>
   </url>
 </urlset>

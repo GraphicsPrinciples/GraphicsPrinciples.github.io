@@ -1,7 +1,7 @@
 ---
-title: "Effective visual communication"
+title: "Tutorial"
 description: |
-  Effective visual communication is a core competency for pharmacometricians, statisticians, and more generally any quantitative scientist.
+  Effective Visual Communication is essential in every step of a quantitative workflow, from scoping to execution and communicating results and conclusions. The goal of the tutorial is to convey this competency. 
 site: radix::radix_website
 ---
 
@@ -9,15 +9,14 @@ site: radix::radix_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Effective visual communication is essential in every step of a quantitative workflow, from scoping to execution and communicating results and conclusions. With this competency, we can better understand data and influence decisions towards appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions. The goal of this tutorial is to convey this competency. We posit three laws of effective visual communication for the quantitative scientist: have a clear purpose, show the data clearly, and make the message obvious.
+In the tutorial we posit three laws of Effective Visual Communication for the quantitative scientist: have a clear purpose, show the data clearly, and make the message obvious. The Tutorial provides more granularity on these laws; it covers the Graphics Principles Cheet Sheet; and it discusses the application of both in four Case Studies.
 
-We have prepared a tutorial on "Effective visual communication for the quantitative scientist" which available and online [at CPT:PSP here](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12455). 
-
-Example code from the tutorial is available [here](https://github.com/GraphicsPrinciples/tutorial-viz-com). 
-These laws and recommendations are illustrated in a collection of [case study notebooks](https://graphicsprinciples.github.io/tutorial-case-studies).
-
-```{r, fig.cap="Example plot from a notebook"}
+```{r, fig.cap="Example visualistion from the tutorial"}
 knitr::include_graphics("assets/Case-study.png")
 ```
+
+These laws and recommendations are illustrated in a collection of [case study notebooks](https://graphicsprinciples.github.io/tutorial-case-studies).
+
+Example code from the tutorial is available [here](https://github.com/GraphicsPrinciples/tutorial-viz-com). 
 
 An earlier pre-print of the tutorial can also be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512) 
