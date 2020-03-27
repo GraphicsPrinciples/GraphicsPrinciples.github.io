@@ -9,13 +9,11 @@ site: radix::radix_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r}
+```{r, fig.align = 'center'}
 knitr::include_graphics("assets/EVC.png")
 ```
 
-Effective visual communication is a core skilltask for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions. 
-
-Effective Visual Communication is a core skilltask for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions. 
+Effective visual communication is a core skill for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions. 
 
 The goal of these pages is to help quantitative scientists to get this right.
 More specifically, you will find:
@@ -30,7 +28,6 @@ More specifically, you will find:
 *	Links to further [resources & references](resources.html)
 
 We hope that this page proves beneficial for your work. It will evolve further over time.
-
 
 ## Corrections or questions {.appendix}
 
