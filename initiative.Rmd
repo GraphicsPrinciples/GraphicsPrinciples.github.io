@@ -51,3 +51,8 @@ In this article, we present a concerted effort to improve the way we create grap
 
 
 In addition to the initative We have also published a tutorial on "Effective visual communication for the quantitative scientist". The open access tutorial can be found [at CPT:PSP here](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12455). 
+
+
+## Corrections or questions {.appendix}
+
+If you see mistakes, want to suggest changes or even ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)

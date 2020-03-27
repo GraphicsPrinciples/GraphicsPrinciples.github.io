@@ -30,3 +30,9 @@ More specifically, you will find:
 *	Links to further [resources & references](resources.html)
 
 We hope that this page proves beneficial for your work. It will evolve further over time.
+
+
+## Corrections or questions {.appendix}
+
+If you see mistakes, want to suggest changes or even ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
+

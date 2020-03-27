@@ -14,3 +14,7 @@ knitr::include_graphics("assets/2018-11-06_thumbnail.png")
 ```
 
 The [cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is available on GitHub along with [R code]((https://github.com/GraphicsPrinciples/CheatSheet)) for many of the examples.
+
+## Corrections or questions {.appendix}
+
+If you see mistakes, want to suggest changes or even ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
