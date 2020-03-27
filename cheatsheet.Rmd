@@ -1,7 +1,7 @@
 ---
-title: "Graphics Principles Cheat Sheet"
+title: "Cheat sheet"
 description: |
-  A single-page reference sheet providing detailed practical recommendations for creating effective graphs. [Have it at your fingertips!](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
+  The graphics principles cheat sheet is a single-page reference sheet providing detailed practical recommendations for creating effective graphs. [Have it at your fingertips!](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)
 site: radix::radix_website
 ---
 

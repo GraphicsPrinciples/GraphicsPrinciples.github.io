@@ -1,13 +1,27 @@
 ---
-title: "How can we make better graphs?"
+title: "Initiative"
 description: |
-  An initiative to increase the graphical expertise and productivity of quantitative scientists. 
+  These pages originate from an initiative at Novartis which aims at fostering the impact of quantitative scientists on decision-making based on data. While this motivation is set in pharmaceutical development, we hope this effort is of benefit to all quantitative scientists. 
 site: radix::radix_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+[Here](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) is a paper which summarizes several facets of the initiative (as of 2018), specifically:
+
+*	A graph gallery, i.e. a resource to browse good graphs and download corresponding software code (at this point only available within Novartis)
+*	The [graphics principles cheat sheet](cheatsheet.html)
+*	The graphics newsletter, a bi‐monthly journal to promote graphical awareness and skills throughout Novartis (these have given rise to the [Blog](https://graphicsprinciples.github.io/gallery/))
+*	The creation and standardization of Analysis Results Datasets for drug development to allow reuse of analysis results for further display (work in progress)
+*	Standardization efforts for the most common and important graphs in drug development (Novartis only)
+*	The concept of Question‐Based Visualizations and interactive graphics
+*	Stakeholder management and communication
+
+The initiative lives by the contributions of Mark Baillie, David Carr, Allison Florance, Julie Jones, Linda Kanitra, Jürgen Löffler, Baldur Magnusson, Alison Margolskee, Oliver Sander, Marc Vandemeulebroecke, Ivan-Toma Vranesic, Andrew Wright, and many others. 
+
+
 
 Graphics are at the core of exploring and understanding data, communicating results and conclusions, and supporting decision‐making. Increasing our graphical expertise can significantly strengthen our impact as professional statisticians and quantitative scientists.
 

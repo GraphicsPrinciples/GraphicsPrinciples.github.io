@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://graphicsprinciples.github.io/cheatsheet.html</loc>
-    <lastmod>2020-03-26T23:11:35+01:00</lastmod>
+    <lastmod>2020-03-27T07:06:05+01:00</lastmod>
   </url>
   <url>
     <loc>https://graphicsprinciples.github.io/</loc>
@@ -10,11 +10,15 @@
   </url>
   <url>
     <loc>https://graphicsprinciples.github.io/initiative.html</loc>
-    <lastmod>2020-03-26T21:28:50+01:00</lastmod>
+    <lastmod>2020-03-27T07:07:33+01:00</lastmod>
   </url>
   <url>
     <loc>https://graphicsprinciples.github.io/README.html</loc>
     <lastmod>2020-03-26T21:28:50+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://graphicsprinciples.github.io/resources.html</loc>
+    <lastmod>2020-03-27T07:15:06+01:00</lastmod>
   </url>
   <url>
     <loc>https://graphicsprinciples.github.io/threelaws.html</loc>

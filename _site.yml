@@ -1,7 +1,7 @@
 name: "Graphics principles"
 title: "Graphics principles"
 description: |
-  Graphics principles cheatsheet homepage
+  Graphics principles homepage
 output_dir: "."
 base_url: https://graphicsprinciples.github.io
 canonical_url: https://graphicsprinciples.github.io
@@ -11,7 +11,7 @@ navbar:
       href: index.html
     - text: "Three laws"
       href: threelaws.html
-    - text: "CheatSheet"
+    - text: "Cheat sheet"
       href: cheatsheet.html
     - text: "Tutorial"
       href: tutorial.html
@@ -19,8 +19,10 @@ navbar:
       href: https://graphicsprinciples.github.io/tutorial-case-studies
     - text: "Gallery"
       href: https://graphicsprinciples.github.io/gallery/
-    - text: "About"
+    - text: "Initiative"
       href: initiative.html
+    - text: "Resources & references"
+      href: resources.html
     - icon: fab fa-github
       href: https://github.com/GraphicsPrinciples
 output: radix::radix_article

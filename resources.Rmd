@@ -1,0 +1,10 @@
+---
+title: "Resources & references"
+description: |
+  Further resources and references are listed here. 
+site: radix::radix_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
