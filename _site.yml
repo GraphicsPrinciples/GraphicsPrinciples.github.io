@@ -17,6 +17,8 @@ navbar:
       href: tutorial.html
     - text: "Case studies"
       href: https://graphicsprinciples.github.io/tutorial-case-studies
+    - text: "QBV"
+      href: qbv.html
     - text: "Blog"
       href: https://graphicsprinciples.github.io/gallery/
     - text: "Initiative"

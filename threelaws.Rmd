@@ -18,7 +18,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
 The three laws of effective visual communication correspond to the three main ingredients of any quantitative work: purpose, data, and message. Getting these right leads to success; failing in any of them leads to overall failure. 
 
 ## Law 1: Have a clear purpose

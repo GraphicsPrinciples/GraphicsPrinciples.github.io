@@ -1,0 +1,22 @@
+---
+title: "Question-based visualizations"
+description: |
+  The concept of question-based visualizations posits to first carve out the scientific question of interest clearly and explicitly, and then only to shift attention to the data at hand and any possible visualizations. 
+site: radix::radix_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, fig.cap="Screenshot from the question‐based visualization pilot (data anonymized)"}
+knitr::include_graphics("assets/QBV.png")
+```
+
+Presently, graphics are often designed “bottom up,” that is, we start from the data and decide how best to display it. However, a graph is most impactful if it is designed to answer a question, so it may be more meaningful to start from the question. To this end, consider a “top down” approach. The first step is to explicitly identify and agree on the question of interest before any data are even considered. Then, and only then, it is decided how to best craft a graph (or set of graphs) to answer this question. This subtle yet important shift in the process of graph creation helps focus the graph on answering the question of interest most clearly.
+
+For more details, please see this [presentation](assets/QBV-Wright-RSS2019.pdf) and the relevant section of the paper of this [initiative](initiative.html).
+
+## Corrections or questions {.appendix}
+
+If you see mistakes, want to suggest changes or even ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
