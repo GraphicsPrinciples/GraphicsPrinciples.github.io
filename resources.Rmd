@@ -1,0 +1,21 @@
+---
+title: "Resources & references"
+description: |
+  Further resources and references are listed here. 
+site: radix::radix_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+A list of useful resources and related initatives:
+
+* The [visR initative](https://openpharma.github.com/visR).
+* PSI special interest group on [visualisation](https://www.psiweb.org/sigs-special-interest-groups/visualisation).
+* The [xGx](https://opensource.nibr.com/xgx/) initative from Novartis PMX.
+* The [CTSpedia](https://www.ctspedia.org/do/view/CTSpedia) initative. 
+
+## Corrections or questions {.appendix}
+
+If you see mistakes, want to suggest changes or even ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
