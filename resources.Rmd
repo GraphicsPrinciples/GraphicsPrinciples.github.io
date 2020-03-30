@@ -9,6 +9,12 @@ site: radix::radix_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+A list of useful resources and related initatives:
+
+* The [visR initative](https://openpharma.github.com/visR).
+* PSI special interest group on [visualisation](https://www.psiweb.org/sigs-special-interest-groups/visualisation).
+* The [xGx](https://opensource.nibr.com/xgx/) initative from Novartis PMX.
+* The [CTSpedia](https://www.ctspedia.org/do/view/CTSpedia) initative. 
 
 ## Corrections or questions {.appendix}
 

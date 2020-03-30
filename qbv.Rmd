@@ -1,5 +1,5 @@
 ---
-title: "Question-based visualizations"
+title: "Question-based visualizations (QBV)"
 description: |
   The concept of question-based visualizations posits to first carve out the scientific question of interest clearly and explicitly, and then only to shift attention to the data at hand and any possible visualizations. 
 site: radix::radix_website
