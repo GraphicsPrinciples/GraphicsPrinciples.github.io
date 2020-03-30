@@ -22,7 +22,7 @@ More specifically, you will find:
 *	A graphics principles [cheat sheet](cheatsheet.html)
 *	A [tutorial](tutorial.html) covering both of the above more comprehensively
 *	Example [case studies](https://graphicsprinciples.github.io/tutorial-case-studies) from this tutorial with programming code for download
-*	The concept of Question-Based Visualizations
+*	The concept of [Question-Based Visualizations (QBV)](qbv.html)
 *	A [blog](https://graphicsprinciples.github.io/gallery/) with various related articles
 *	Some further background of this [initiative](initiative.html), including a related [overview paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912), that aimed to increase the expertise and productivity of quantitative scientists at [Novartis](https://www.novartis.com/our-science).
 *	Links to further [resources & references](resources.html)
