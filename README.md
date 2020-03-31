@@ -1,11 +1,19 @@
-# Graphics principles cheatsheet
+# Graphics principles 
 
-This is the home page for the [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). The [cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is available on GitHub along with [R code](https://github.com/GraphicsPrinciples/CheatSheet) for many of the examples. The link to the cheatsheet github repository can be found [here](https://github.com/GraphicsPrinciples/CheatSheet). 
+This is the home page for effective visual communication and graphical principles for quantitative scientists.  
 
-The [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is one deliverable of a [graphics initiative](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) to increase the graphical expertise and productivity of quantitative scientists at [Novartis](https://www.novartis.com/our-science). 
+Effective visual communication is a core skill for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions. 
 
-For more information on the [initiative](initiative.html) please check out our publication: [https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) 
+The goal of these pages is to help quantitative scientists to get this right.
+More specifically, you will find:
 
-We also have prepared a [tutorial](tutorial.html) on "Effective visual communication for the quantitative scientist" which is in submission and can be found [at CPT:PSP here](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12455). Example code for the [case studies](https://graphicsprinciples.github.io/tutorial-case-studies) is available [here](https://github.com/GraphicsPrinciples/tutorial-viz-com). 
+*	The [three laws](threelaws.html) of effective visual communication
+*	A graphics principles [cheat sheet](cheatsheet.html)
+*	A [tutorial](tutorial.html) covering both of the above more comprehensively
+*	Example [case studies](https://graphicsprinciples.github.io/tutorial-case-studies) from this tutorial with programming code for download
+*	The concept of [Question-Based Visualizations (QBV)](qbv.html)
+*	A [blog](https://graphicsprinciples.github.io/gallery/) with various related articles
+*	Some further background of this [initiative](initiative.html), including a related [overview paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912), that aimed to increase the expertise and productivity of quantitative scientists at [Novartis](https://www.novartis.com/our-science).
+*	Links to further [resources & references](resources.html)
 
-A pre-print of the tutorial can also be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512). 
+We hope that this page proves beneficial for your work. It will evolve further over time.
