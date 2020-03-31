@@ -15,4 +15,4 @@ The three laws of effective visual communication correspond to the three main in
 
 ## Corrections or questions {.appendix}
 
-If you see mistakes, want to suggest changes or even ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
+If you see mistakes, want to suggest changes or ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
