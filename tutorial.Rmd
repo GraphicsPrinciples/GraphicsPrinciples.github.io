@@ -1,7 +1,7 @@
 ---
 title: "Tutorial"
 description: |
-  Effective Visual Communication is essential in every step of a quantitative workflow, from scoping to execution and communicating results and conclusions. The goal of the tutorial is to convey this competency. 
+  Effective Visual Communication is essential in every step of a quantitative workflow, from scoping to execution and communicating results and conclusions. The goal of the [tutorial](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455) is to convey this competency. 
 site: radix::radix_website
 ---
 
@@ -9,7 +9,7 @@ site: radix::radix_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-In the tutorial we posit three laws of Effective Visual Communication for the quantitative scientist: have a clear purpose, show the data clearly, and make the message obvious. The tutorial provides more granularity on these laws; it covers the Graphics Principles Cheat Sheet; and it discusses the application of both in four Case Studies.
+In the [tutorial](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455) we posit three laws of Effective Visual Communication for the quantitative scientist: have a clear purpose, show the data clearly, and make the message obvious. The [tutorial](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455) provides more granularity on these laws; it covers the Graphics Principles [Cheat Sheet](cheatsheet.html); and it discusses the application of both in four [Case Studies](https://graphicsprinciples.github.io/tutorial-case-studies).
 
 ```{r, fig.cap="Example visualistion from the tutorial"}
 knitr::include_graphics("assets/Case-study.png")
