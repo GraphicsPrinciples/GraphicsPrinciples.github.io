@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 A list of useful resources and related initatives:
 
 * The [visR initative](https://openpharma.github.com/visR).
+* A [Rstudio Rviews webinar](https://resources.rstudio.com/webinars/effective-visualizations-for-data-driven-decisions) on graphics principles and visR
 * PSI special interest group on [visualisation](https://www.psiweb.org/sigs-special-interest-groups/visualisation).
 * The [xGx](https://opensource.nibr.com/xgx/) initative from Novartis PMX.
 * The [CTSpedia](https://www.ctspedia.org/do/view/CTSpedia) initative. 
