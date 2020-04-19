@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("assets/2018-11-06_thumbnail.png")
 ```
 
-The [cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is available on GitHub along with [R code]((https://github.com/GraphicsPrinciples/CheatSheet)) for many of the examples.
+The [cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is available on GitHub along with [R code](https://github.com/GraphicsPrinciples/CheatSheet) for many of the examples.
 
 ## Corrections or questions {.appendix}
 
