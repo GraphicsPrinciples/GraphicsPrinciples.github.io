@@ -15,6 +15,7 @@ A list of useful resources and related initatives:
 * A [Rstudio Rviews webinar](https://resources.rstudio.com/webinars/effective-visualizations-for-data-driven-decisions) on graphics principles and visR, and [blog post](https://blog.rstudio.com/2020/04/16/effective-visualizations-for-credible-data-driven-decision-making/)
 * R in Pharma 2020 talk on [EVC](assets/EVC_Magnusson_RPharma2020.pdf)
 * PSI special interest group on [visualisation](https://www.psiweb.org/sigs-special-interest-groups/visualisation).
+* PSI vis sig [Wonderful Wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays), [datasets](https://github.com/VIS-SIG/Wonderful-Wednesdays) and [blog](https://vis-sig.github.io/blog/).
 * The [xGx](https://opensource.nibr.com/xgx/) initative from Novartis PMX.
 * The [CTSpedia](https://www.ctspedia.org/do/view/CTSpedia) initative. 
 
