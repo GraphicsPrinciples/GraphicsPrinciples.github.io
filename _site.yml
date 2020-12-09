@@ -27,7 +27,7 @@ navbar:
       href: resources.html
     - icon: fab fa-github
       href: https://github.com/GraphicsPrinciples
-output: radix::radix_article
+output: distill::distill_article
 
 
 
