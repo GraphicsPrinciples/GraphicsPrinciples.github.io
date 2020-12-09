@@ -2,7 +2,7 @@
 title: "Resources & references"
 description: |
   Further resources and references are listed here. 
-site: radix::radix_website
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}

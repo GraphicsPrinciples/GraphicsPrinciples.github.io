@@ -2,7 +2,7 @@
 title: "Initiative"
 description: |
   These pages originate from an initiative at Novartis which aims at fostering the impact of quantitative scientists on decision-making based on data. While this motivation is set in pharmaceutical development, we hope this effort is of benefit to all quantitative scientists. 
-site: radix::radix_website
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}

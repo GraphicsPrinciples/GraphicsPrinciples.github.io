@@ -2,7 +2,7 @@
 title: "Graphics principles"
 description: |
   This is the home page for effective visual communication and good graphical principles for quantitative scientists.  
-site: radix::radix_website
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
