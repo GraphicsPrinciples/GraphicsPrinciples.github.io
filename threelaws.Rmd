@@ -2,7 +2,7 @@
 title: "Three laws"
 description: |
   This short video introduces three laws of effective visual communication: have a clear **purpose**, show the data **clearly**, and make the **message** obvious.
-site: radix::radix_website
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
