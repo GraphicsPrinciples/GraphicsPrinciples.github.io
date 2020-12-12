@@ -15,7 +15,7 @@ knitr::include_graphics("assets/QBV.png")
 
 Presently, graphics are often designed “bottom up,” that is, we start from the data and decide how best to display it. However, a graph is most impactful if it is designed to answer a question, so it may be more meaningful to start from the question. To this end, consider a “top down” approach. The first step is to explicitly identify and agree on the question of interest before any data are even considered. Then, and only then, it is decided how to best craft a graph (or set of graphs) to answer this question. This subtle yet important shift in the process of graph creation helps focus the graph on answering the question of interest most clearly.
 
-For more details, please see this [presentation](assets/QBV-Wright-RSS2019.pdf) and the relevant section of the paper of this [initiative](initiative.html).
+For more details, please see this [presentation](assets/QBV-Wright-RSS2019.pdf) and the relevant section of the paper of this [initiative](initiative.html). Take a look at the [RSS 2019 session with a presentation](https://www.youtube.com/watch?v=fQOJEmzXqMg&list=PLi_-RNsPXDTKAZqdUHI7m6Bf8mJVM4LOz&index=23) on the topic. 
 
 ## Corrections or questions {.appendix}
 
