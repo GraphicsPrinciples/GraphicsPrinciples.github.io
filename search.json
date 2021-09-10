@@ -6,7 +6,7 @@
       "description": "The graphics principles cheat sheet is a single-page reference sheet providing detailed practical recommendations for creating effective graphs. [Have it at your fingertips!](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf)\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nFigure 1: https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf\r\n\r\n\r\n\r\nThe cheatsheet is available on GitHub along with R code for many of the examples.\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T21:56:52+02:00"
+      "last_modified": "2021-09-10T09:20:41+02:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is the home page for effective visual communication and good graphical principles for quantitative scientists.  \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nEffective visual communication is a core skill for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions.\r\nThe goal of these pages is to help quantitative scientists to get this right. More specifically, you will find:\r\nThe three laws of effective visual communication\r\nA graphics principles cheat sheet\r\nA tutorial covering both of the above more comprehensively\r\nExample case studies from this tutorial with programming code for download\r\nThe concept of Question-Based Visualizations (QBV)\r\nA blog with various related articles\r\nSome further background of this initiative, including a related overview paper\r\nLinks to further resources & references\r\nWe hope that these page prove beneficial for your work. They will evolve further over time.\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T21:56:54+02:00"
+      "last_modified": "2021-09-10T09:26:12+02:00"
     },
     {
       "path": "initiative.html",
@@ -22,7 +22,7 @@
       "description": "These pages originate from an initiative at Novartis which aims at fostering the impact of quantitative scientists on decision-making based on data. While this motivation is set in pharmaceutical development, we hope this effort is of benefit to all quantitative scientists. \n",
       "author": [],
       "contents": "\r\nHere is a paper which summarizes several facets of the initiative (as of 2018), specifically:\r\nA graph gallery, i.e. a resource to browse good graphs and download corresponding software code (at this point only available within Novartis)\r\nThe graphics principles cheat sheet\r\nThe graphics newsletter, a bi‐monthly journal to promote graphical awareness and skills throughout Novartis (these have given rise to the Blog)\r\nThe creation and standardization of Analysis Results Datasets for drug development to allow reuse of analysis results for further display (work in progress)\r\nStandardization efforts for the most common and important graphs in drug development (Novartis only)\r\nThe concept of Question‐Based Visualizations (QBV) and interactive graphics\r\nStakeholder management and communication\r\nThe initiative lives by the contributions of Mark Baillie, David Carr, Allison Florance, Julie Jones, Linda Kanitra, Jürgen Löffler, Baldur Magnusson, Alison Margolskee, Oliver Sander, Marc Vandemeulebroecke, Ivan-Toma Vranesic, Andrew Wright, and many others.\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T21:56:57+02:00"
+      "last_modified": "2021-09-10T09:20:41+02:00"
     },
     {
       "path": "qbv.html",
@@ -30,21 +30,21 @@
       "description": "The concept of question-based visualizations posits to first carve out the scientific question of interest clearly and explicitly, and then only to shift attention to the data at hand and any possible visualizations. \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\nFigure 1: Screenshot from the question-based visualization pilot (data anonymized)\r\n\r\n\r\n\r\nPresently, graphics are often designed “bottom up,” that is, we start from the data and decide how best to display it. However, a graph is most impactful if it is designed to answer a question, so it may be more meaningful to start from the question. To this end, consider a “top down” approach. The first step is to explicitly identify and agree on the question of interest before any data are even considered. Then, and only then, it is decided how to best craft a graph (or set of graphs) to answer this question. This subtle yet important shift in the process of graph creation helps focus the graph on answering the question of interest most clearly.\r\nFor more details, please see this presentation and the relevant section of the paper of this initiative. Take a look at the RSS 2019 session with a presentation on the topic.\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T21:57:00+02:00"
+      "last_modified": "2021-09-10T09:20:41+02:00"
     },
     {
       "path": "README.html",
       "author": [],
       "contents": "\r\nGraphics principles cheatsheet\r\nThis is the home page for the Graphics Principles cheatsheet. The cheatsheet is available on GitHub along with R code for many of the examples. The link to the cheatsheet github repository can be found here.\r\nThe Graphics Principles cheatsheet is one deliverable of a graphics initiative to increase the graphical expertise and productivity of quantitative scientists at Novartis.\r\nFor more information on the initiative please check out our publication: https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912\r\nWe also have prepared a tutorial on “Effective visual communication for the quantitative scientist” which is in submission and can be found at CPT:PSP here. Example code for the case studies is available here.\r\nA pre-print of the tutorial can also be found at: https://arxiv.org/abs/1903.09512.\r\n\r\n\r\n",
-      "last_modified": "2020-10-14T14:53:01+02:00"
+      "last_modified": "2021-09-10T09:20:41+02:00"
     },
     {
       "path": "resources.html",
       "title": "Resources & references",
       "description": "Further resources and references are listed here. \n",
       "author": [],
-      "contents": "\r\nA list of useful resources and related initiatives:\r\nGraphical principles initiative:\r\nA Rstudio Rviews webinar on graphics principles and visR, and blog post\r\nR in Pharma 2020 talk on EVC, slides and video.\r\nThe xGx initiative from Novartis PMX.\r\nWebinar resources\r\nEVC webinar materials:\r\nFor the (ASCPT Pharmacometrics & Pharmacokinetcs (PMK) Community Webinar 15Jan2021 (part1) and 22Jan2021 (part2)\r\nData visualization initiatives:\r\nPSI special interest group on visualisation (VIS SIG).\r\nThe PSI VIS SIG Wonderful Wednesdays webinar series, datasets and blog.\r\nThe CTSpedia initiative.\r\nThe STRengthening Analytical Thinking for Observational Studies (STRATOS) visualisation panel\r\nThe visR initiative.\r\nOnline resources:\r\nTrees, maps and theorems by Jean-luc Doumont\r\nData visualization by Kieran Healy - includes R code with examples.\r\nFundamwentals of data vizualisation by Claus Wilke - also includes R code with examples.\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T21:57:02+02:00"
+      "contents": "\r\nA list of useful resources and related initiatives:\r\nGraphical principles initiative:\r\nA Rstudio Rviews webinar on graphics principles and visR, and blog post\r\nR in Pharma 2020 talk on EVC, slides and video.\r\nThe xGx initiative from Novartis PMX.\r\nWebinar resources\r\nEVC webinar materials:\r\nFor the (ASCPT Pharmacometrics & Pharmacokinetcs (PMK) Community Webinar 15Jan2021 (part1) and 22Jan2021 (part2)\r\nData visualization initiatives:\r\nPSI special interest group on visualisation (VIS SIG).\r\nThe PSI VIS SIG Wonderful Wednesdays webinar series, datasets and blog.\r\nThe CTSpedia initiative.\r\nThe STRengthening Analytical Thinking for Observational Studies (STRATOS) visualisation panel\r\nSlides from ROeS 2021 STRATOS session introducing the visualisation panel.\r\nThe visR initiative.\r\nOnline resources:\r\nTrees, maps and theorems by Jean-luc Doumont\r\nData visualization by Kieran Healy - includes R code with examples.\r\nFundamwentals of data vizualisation by Claus Wilke - also includes R code with examples.\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-10T09:25:01+02:00"
     },
     {
       "path": "threelaws.html",
@@ -52,7 +52,7 @@
       "description": "This short video introduces three laws of effective visual communication: have a clear **purpose**, show the data **clearly**, and make the **message** obvious.\n",
       "author": [],
       "contents": "\r\n\r\n\r\nThe three laws of effective visual communication correspond to the three main ingredients of any quantitative work: purpose, data, and message. Getting these right leads to success; failing in any of them leads to overall failure. Watch the video or read our tutorial or online post to learn more.\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T21:57:04+02:00"
+      "last_modified": "2021-09-10T09:20:41+02:00"
     },
     {
       "path": "tutorial.html",
@@ -60,7 +60,7 @@
       "description": "Effective Visual Communication is essential in every step of a quantitative workflow, from scoping to execution and communicating results and conclusions. The goal of the [tutorial](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455) is to convey this competency. \n",
       "author": [],
       "contents": "\r\nIn the tutorial we posit three laws of Effective Visual Communication for the quantitative scientist: have a clear purpose, show the data clearly, and make the message obvious. The tutorial provides more granularity on these laws; it covers the Graphics Principles Cheat Sheet; and it discusses the application of both in four Case Studies.\r\n\r\n\r\n\r\nFigure 1: Example visualistion from the tutorial\r\n\r\n\r\n\r\nThese laws and recommendations are illustrated in a collection of case study notebooks.\r\nExample code from the tutorial is available here.\r\nAn earlier pre-print of the tutorial can also be found at: https://arxiv.org/abs/1903.09512\r\nCorrections or questions\r\nIf you see mistakes, want to suggest changes or ask us a question, please create an issue on the source repository or email directly\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T21:57:06+02:00"
+      "last_modified": "2021-09-10T09:20:41+02:00"
     }
   ],
   "collections": []
