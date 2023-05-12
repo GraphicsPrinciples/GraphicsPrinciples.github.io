@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, fig.align = 'center'}
-knitr::include_graphics("assets/EVC.png")
+knitr::include_graphics("assets/2018-11-06_thumbnail.png")
 ```
 
 Effective visual communication is a core skill for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions. 
