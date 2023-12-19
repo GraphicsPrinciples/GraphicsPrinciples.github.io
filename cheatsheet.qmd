@@ -1,0 +1,11 @@
+---
+title: "The graphics principles cheat sheet"
+description: "is a single-page reference sheet providing detailed practical recommendations for creating effective graphs."
+page-layout: full
+title-block-banner: true
+---
+
+
+![](assets/2018-11-06_thumbnail.png){fig-align="center" width=100%} 
+
+[Have it at your fingertips!](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). The [cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) is available on GitHub along with [R code](https://github.com/GraphicsPrinciples/CheatSheet) for many of the examples.

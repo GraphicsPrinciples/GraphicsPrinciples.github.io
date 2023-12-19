@@ -1,0 +1,16 @@
+---
+title: "Tutorial"
+description: "Effective Visual Communication is essential in every step of a quantitative workflow, from scoping to execution and communicating results and conclusions. The goal of the tutorial is to convey this competency."
+page-layout: full
+title-block-banner: true
+---
+
+In the [tutorial](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455) we posit three laws of Effective Visual Communication for the quantitative scientist: have a clear purpose, show the data clearly, and make the message obvious. The [tutorial](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12455) provides more granularity on these laws; it covers the Graphics Principles [Cheat Sheet](cheatsheet.html); and it discusses the application of both in four [Case Studies](https://graphicsprinciples.github.io/tutorial-case-studies).
+
+![](assets/Case-study.png "Title: Example visualistion from the tutorial"){fig-align="center" width=60%} 
+
+
+These laws and recommendations are illustrated in a collection of [case study notebooks](https://graphicsprinciples.github.io/tutorial-case-studies). [Example code](https://github.com/GraphicsPrinciples/tutorial-viz-com) from the tutorial is also available. 
+
+An earlier pre-print of the tutorial can also be found at: [https://arxiv.org/abs/1903.09512](https://arxiv.org/abs/1903.09512) 
+

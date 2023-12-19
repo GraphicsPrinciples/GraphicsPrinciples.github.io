@@ -1,0 +1,24 @@
+---
+title: "Welcome"
+description: "This is the home page for effective visual communication and good graphical principles for quantitative scientists."
+page-layout: full
+title-block-banner: true
+---
+
+![](assets/logo.png){style="float: right;" fig-alt="Hex logo" fig-align="right" width="150"}
+
+Effective visual communication is a core skill for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions. 
+
+The goal of these pages is to help quantitative scientists to get this right.
+More specifically, you will find:
+
+*	The [three laws](threelaws.qmd) of effective visual communication
+*	A graphics principles [cheat sheet](cheatsheet.qmd)
+*	A [tutorial](tutorial.qmd) covering both of the above more comprehensively
+*	Example [case studies](https://graphicsprinciples.github.io/tutorial-case-studies) from this tutorial with programming code for download
+*	The concept of [Question-Based Visualizations (QBV)](qbv.qmd)
+*	A [blog](https://graphicsprinciples.github.io/gallery/) with various related articles
+*	Some further background of this [initiative](initiative.qmd), including a related [overview paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912)
+*	Links to further [resources & references](resources.html)
+
+We hope that these page prove beneficial for your work. They will evolve further over time.

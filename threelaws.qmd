@@ -1,18 +1,11 @@
 ---
 title: "Three laws"
-description: |
-  This short video introduces three laws of effective visual communication: have a clear **purpose**, show the data **clearly**, and make the **message** obvious.
-site: distill::distill_website
+description: "This short video introduces three laws of effective visual communication: have a clear **purpose**, show the data **clearly**, and make the **message** obvious."
+page-layout: full
+title-block-banner: true
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pfxulpF9XOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The three laws of effective visual communication correspond to the three main ingredients of any quantitative work: purpose, data, and message. Getting these right leads to success; failing in any of them leads to overall failure. Watch the video or read our [tutorial](tutorial.html) or [online post](https://graphicsprinciples.github.io/gallery/posts/2019/2019-09-09-three-laws-vizcom/) to learn more. 
 
-## Corrections or questions {.appendix}
-
-If you see mistakes, want to suggest changes or ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
