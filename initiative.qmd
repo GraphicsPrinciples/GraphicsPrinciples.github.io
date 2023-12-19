@@ -1,5 +1,5 @@
 ---
-title: "about the initative"
+title: "About the initative"
 description: "These pages originate from an initiative at Novartis which aims at fostering the impact of quantitative scientists on decision-making based on data. While this motivation is set in pharmaceutical development, we hope this effort is of benefit to all quantitative scientists."
 page-layout: full
 title-block-banner: true
