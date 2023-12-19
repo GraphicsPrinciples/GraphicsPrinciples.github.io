@@ -22,6 +22,8 @@ website:
     #collapse-below: lg
 
     left: 
+      - text: "home"
+        href: index.qmd
       - text: "three laws"
         href: threelaws.qmd
       - text: "cheat sheet"
@@ -45,7 +47,7 @@ website:
 
 format:
   html:
-    theme: cosmo #yeti #cosmo #zephyr #yeti #cosmo #solar 
+    theme: cosmo #litera #solar #cosmo #yeti
     toc: true
     code-copy: true
     code-overflow: wrap
