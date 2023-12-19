@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "cheatsheet.html",
-    "href": "cheatsheet.html",
-    "title": "The graphics principles cheat sheet",
-    "section": "",
-    "text": "Have it at your fingertips!. The cheatsheet is available on GitHub along with R code for many of the examples."
-  },
-  {
     "objectID": "tutorial.html",
     "href": "tutorial.html",
     "title": "Tutorial",
     "section": "",
     "text": "In the tutorial we posit three laws of Effective Visual Communication for the quantitative scientist: have a clear purpose, show the data clearly, and make the message obvious. The tutorial provides more granularity on these laws; it covers the Graphics Principles Cheat Sheet; and it discusses the application of both in four Case Studies.\n\n\n\n\n\nThese laws and recommendations are illustrated in a collection of case study notebooks. Example code from the tutorial is also available.\nAn earlier pre-print of the tutorial can also be found at: https://arxiv.org/abs/1903.09512"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Effective visual communication is a core skill for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions.\nThe goal of these pages is to help quantitative scientists to get this right. More specifically, you will find:\n\nThe three laws of effective visual communication\nA graphics principles cheat sheet\nA tutorial covering both of the above more comprehensively\nExample case studies from this tutorial with programming code for download\nThe concept of Question-Based Visualizations (QBV)\nA blog with various related articles\nSome further background of this initiative, including a related overview paper\nLinks to further resources & references\n\nWe hope that these page prove beneficial for your work. They will evolve further over time."
   },
   {
     "objectID": "threelaws.html",
@@ -28,11 +14,11 @@
     "text": "The three laws of effective visual communication correspond to the three main ingredients of any quantitative work: purpose, data, and message. Getting these right leads to success; failing in any of them leads to overall failure. Watch the video or read our tutorial or online post to learn more."
   },
   {
-    "objectID": "qbv.html",
-    "href": "qbv.html",
-    "title": "Question-based visualizations",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "Presently, graphics are often designed “bottom up,” that is, we start from the data and decide how best to display it. However, a graph is most impactful if it is designed to answer a question, so it may be more meaningful to start from the question. To this end, consider a “top down” approach. The first step is to explicitly identify and agree on the question of interest before any data are even considered. Then, and only then, it is decided how to best craft a graph (or set of graphs) to answer this question. This subtle yet important shift in the process of graph creation helps focus the graph on answering the question of interest most clearly.\nFor more details, please see this presentation and the relevant section of the paper of this initiative. Take a look at the RSS 2019 session with a presentation on the topic. Also, watch a recent application of QBV presented at the 2023 useR conference in Basel."
+    "text": "Effective visual communication is a core skill for all quantitative scientists including statisticians, epidemiologists, machine learning experts, bioinformaticians, etc. By using the right graphical principles, we can better understand data, highlight core insights and influence decisions toward appropriate actions. Without it, we can fool ourselves and others and pave the way to wrong conclusions and actions.\nThe goal of these pages is to help quantitative scientists to get this right. More specifically, you will find:\n\nThe three laws of effective visual communication\nA graphics principles cheat sheet\nA tutorial covering both of the above more comprehensively\nExample case studies from this tutorial with programming code for download\nThe concept of Question-Based Visualizations (QBV)\nA blog with various related articles\nSome further background of this initiative, including a related overview paper\nLinks to further resources & references\n\nWe hope that these page prove beneficial for your work. They will evolve further over time."
   },
   {
     "objectID": "initiative.html",
@@ -54,6 +40,20 @@
     "title": "about the initative",
     "section": "Who?",
     "text": "Who?\nThe initiative lives by the contributions of Mark Baillie, David Carr, Allison Florance, Julie Jones, Linda Kanitra, Jürgen Löffler, Baldur Magnusson, Alison Margolskee, Oliver Sander, Marc Vandemeulebroecke, Ivan-Toma Vranesic, Andrew Wright, and many others."
+  },
+  {
+    "objectID": "qbv.html",
+    "href": "qbv.html",
+    "title": "Question-based visualizations",
+    "section": "",
+    "text": "Presently, graphics are often designed “bottom up,” that is, we start from the data and decide how best to display it. However, a graph is most impactful if it is designed to answer a question, so it may be more meaningful to start from the question. To this end, consider a “top down” approach. The first step is to explicitly identify and agree on the question of interest before any data are even considered. Then, and only then, it is decided how to best craft a graph (or set of graphs) to answer this question. This subtle yet important shift in the process of graph creation helps focus the graph on answering the question of interest most clearly.\nFor more details, please see this presentation and the relevant section of the paper of this initiative. Take a look at the RSS 2019 session with a presentation on the topic. Also, watch a recent application of QBV presented at the 2023 useR conference in Basel."
+  },
+  {
+    "objectID": "cheatsheet.html",
+    "href": "cheatsheet.html",
+    "title": "The graphics principles cheat sheet",
+    "section": "",
+    "text": "Have it at your fingertips!. The cheatsheet is available on GitHub along with R code for many of the examples."
   },
   {
     "objectID": "resources.html",
