@@ -1,35 +1,55 @@
-name: "Graphics principles"
-title: "Graphics principles"
-description: |
-  Graphics principles homepage
-output_dir: "."
-base_url: https://graphicsprinciples.github.io
-canonical_url: https://graphicsprinciples.github.io
-navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "Three laws"
-      href: threelaws.html
-    - text: "Cheat sheet"
-      href: cheatsheet.html
-    - text: "Tutorial"
-      href: tutorial.html
-    - text: "Case studies"
-      href: https://graphicsprinciples.github.io/tutorial-case-studies
-    - text: "QBV"
-      href: qbv.html
-    - text: "Blog"
-      href: https://graphicsprinciples.github.io/gallery/
-    - text: "Initiative"
-      href: initiative.html
-    - text: "Resources & references"
-      href: resources.html
-    - icon: fab fa-github
-      href: https://github.com/GraphicsPrinciples
-output: distill::distill_article
+project:
+  type: website
+  output-dir: docs
 
+website:
+  page-navigation: true
+  title: "graphics principles"
+  site-url: https://graphicsprinciples.github.io
+  repo-url: https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io
+  repo-actions: [edit, issue]
 
+  page-footer:
+    left: "This page is built with [Quarto](https://quarto.org/)."
+  #  background: "#1d467f" #"#0f366c" #"#00A38E" #"#D1F0EE"  #"#A7D5E8"
+    
+  navbar:
+    title: "graphics principles"
+   # background: "#1d467f"
+    #logo: "assets/logo.png"
+    align: center #left
+    #title: false
+    #collapse-below: lg
 
+    left: 
+      - text: "three laws"
+        href: threelaws.qmd
+      - text: "cheat sheet"
+        href: cheatsheet.qmd
+      - text: "tutorial"
+        href: tutorial.qmd
+      - text: "case studies"
+        href: https://graphicsprinciples.github.io/tutorial-case-studies
+      - text: "QBV"
+        href: qbv.qmd
+      - text: "blog"
+        href: https://graphicsprinciples.github.io/gallery/
+        
+    right:
+      - text: "resources & references"
+        href: resources.qmd
+      - text: "about"
+        href: initiative.qmd
+      - icon: github
+        href: https://github.com/GraphicsPrinciples
 
+format:
+  html:
+    theme: cosmo #yeti #cosmo #zephyr #yeti #cosmo #solar 
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+
+execute:
+  freeze: false
 

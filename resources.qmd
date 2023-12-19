@@ -1,29 +1,24 @@
 ---
 title: "Resources & references"
-description: |
-  Further resources and references are listed here. 
-site: distill::distill_website
+description: "A list of useful resources and related initiatives."
+page-layout: full
+title-block-banner: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
-A list of useful resources and related initiatives:
-
-# Graphical principles initiative:
+## Graphical principles initiative:
 
 * A [Rstudio Rviews webinar](https://resources.rstudio.com/webinars/effective-visualizations-for-data-driven-decisions) on graphics principles and visR, and [blog post](https://blog.rstudio.com/2020/04/16/effective-visualizations-for-credible-data-driven-decision-making/)
 * R in Pharma 2020 talk on [EVC](assets/EVC_Magnusson_RPharma2020.pdf), [slides](assets/EVC_Magnusson_RPharma2020.pdf) and [video](https://www.youtube.com/watch?v=TNMC-Ota29g&list=PLMtxz1fUYA5DSpVzwR7bT37IZqCT4SH5a&index=4).
 * The [xGx](https://opensource.nibr.com/xgx/) initiative from Novartis PMX.
 
-# Webinar resources
+## Webinar resources
 
 EVC [webinar materials](https://github.com/GraphicsPrinciples/webinar):
 
 * For the (ASCPT Pharmacometrics & Pharmacokinetcs (PMK) Community [Webinar](https://www.ascpt.org/Member-Services/Member-Tools/Webinar-Resources) 15Jan2021 (part1) and 22Jan2021 (part2) 
 
-# Data visualization initiatives:
+## Data visualization initiatives:
 
 * PSI special interest group on [visualisation](https://www.psiweb.org/sigs-special-interest-groups/visualisation) (VIS SIG).
 * The PSI VIS SIG [Wonderful Wednesdays](https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays) webinar series, [datasets](https://github.com/VIS-SIG/Wonderful-Wednesdays) and [blog](https://vis-sig.github.io/blog/).
@@ -32,12 +27,8 @@ EVC [webinar materials](https://github.com/GraphicsPrinciples/webinar):
 * [Slides](assets/ROeS-SRATOS-Baillie-10Sept2021.pdf) from [ROeS 2021](http://datascience.sbg.ac.at/ROeS2021/) [STRATOS](https://www.stratos-initiative.org/) session introducing the visualisation panel. 
 * The [visR initiative](https://openpharma.github.io/visR).
 
-# Online resources:
+## Online resources:
 
 * [Trees, maps and theorems](https://www.principiae.be/book/) by Jean-luc Doumont
 * [Data visualization](https://socviz.co/) by Kieran Healy - includes R code with examples.
 * [Fundamwentals of data vizualisation](https://serialmentor.com/dataviz/) by Claus Wilke - also includes R code with examples.
-
-## Corrections or questions {.appendix}
-
-If you see mistakes, want to suggest changes or ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)

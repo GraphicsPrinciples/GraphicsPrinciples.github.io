@@ -1,13 +1,11 @@
 ---
-title: "Initiative"
-description: |
-  These pages originate from an initiative at Novartis which aims at fostering the impact of quantitative scientists on decision-making based on data. While this motivation is set in pharmaceutical development, we hope this effort is of benefit to all quantitative scientists. 
-site: distill::distill_website
+title: "about the initative"
+description: "These pages originate from an initiative at Novartis which aims at fostering the impact of quantitative scientists on decision-making based on data. While this motivation is set in pharmaceutical development, we hope this effort is of benefit to all quantitative scientists."
+page-layout: full
+title-block-banner: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+## Overview paper
 
 [Here](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912) is a paper which summarizes several facets of the initiative (as of 2018), specifically:
 
@@ -19,8 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 *	The concept of [Question‐Based Visualizations (QBV)](qbv.html) and interactive graphics
 *	Stakeholder management and communication
 
+## Who?
+
 The initiative lives by the contributions of Mark Baillie, David Carr, Allison Florance, Julie Jones, Linda Kanitra, Jürgen Löffler, Baldur Magnusson, Alison Margolskee, Oliver Sander, Marc Vandemeulebroecke, Ivan-Toma Vranesic, Andrew Wright, and many others. 
 
-## Corrections or questions {.appendix}
-
-If you see mistakes, want to suggest changes or ask us a question, please [create an issue](https://github.com/GraphicsPrinciples/GraphicsPrinciples.github.io/issues) on the source repository or [email directly](mailto:bailliem@gmail.com)
